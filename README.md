@@ -58,7 +58,7 @@ https://vijay-shankar-26.github.io/Text-Area/
 ## 🧑‍💻 Author
 
 **Vijay Shankar**  
-💼 GitHub:  
+💼 GitHub: https://github.com/Vijay-Shankar-26
 📧 Email: vijayshankar0244@gmail.com
 
 ---
