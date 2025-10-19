@@ -44,7 +44,7 @@ character-counter/
 
 ## 📸 Preview
 
-
+https://vijay-shankar-26.github.io/Text-Area/
 
 ---
 
